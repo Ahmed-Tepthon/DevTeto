@@ -1,43 +1,43 @@
-[<img src="https://github.com/DevTeto/DevTeto/blob/master/resources/hr.gif"/>](https://github.com/DevTeto)
+[<img src="https://github.com/Ahmed-Tepthon/blob/master/resources/hr.gif"/>](https://github.com/Ahmed-Tepthon)
 
 <h1> <img src="https://te.legra.ph/file/8e43d1a66ca355ea0b7a5.jpg" height="90px" width="80px"> 𝗁𝖾𝗒 𝗍𝗁𝖾𝗋𝖾 𝗍𝗁𝗂𝗌 𝗂𝗌 𝗍𝖾𝗍𝗈 </h1>
 <p align="center">
     <b>Views github</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/DevTeto/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Ahmed-Tepthon/count.svg" />
 </p>
 
-[<img src="https://github.com/DevTeto/DevTeto/blob/master/resources/hr.gif"/>](https://github.com/DevTeto)
+[<img src="https://github.com/Ahmed-Tepthon/DevTeto/blob/master/resources/hr.gif"/>](https://github.com/Ahmed-Tepthon)
 
 <p align="center">
 <img src="https://telegra.ph/file/d88214dea0c60a7b04f2c.jpg">
 </p>
 
-[<img src="https://raw.githubusercontent.com/DevTeto/DevTeto/master/resources/hr.gif"/>](https://github.com/DevTeto)
+[<img src="https://raw.githubusercontent.com/Ahmed-Tepthon/Ahmed-Tepthon/master/resources/hr.gif"/>](https://github.com/Ahmed-Tepthon)
 
 <h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
 class Anonymous():
     def __init__(self):
-        self.name = ['AhmedTeto']
-        self.country = ['Cairo']
-        self.language = ['En', 'Italian']
+        self.name = ['AhmedMido']
+        self.country = ['Egypt']
+        self.language = ['En', 'Italian'ar']
     def programming_languages(self):
         return [
-            'Python', 'SQL'
+            'Python', 'Lua'
         ]
     def markup_languages(self):
         return [
-            'HTML', 'CSS'
+            'C++'
         ]
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
+            'Render', 'MySQL', 'Qlicome'
         ]
     def operating_system(self):
         return [
-            'Windows', 'Android', 'Linux'
+            'WINDOWS', 'ANDROID', 'Os'
         ]
  ```
 
